@@ -1,5 +1,5 @@
 # Blockchain
-Applications in C# that showes a use of blockchain technology.
+Applications in C# that shows a use of blockchain technology.
 
 Functionalities: block validation, blockchain validation, block creation (mining), and proof-of-work consensus algorithm. The application also has network capabilities.
 
